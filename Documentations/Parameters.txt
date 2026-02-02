@@ -1,0 +1,15 @@
+Single level:
+Total precipitation
+Atmospheric Pressure
+Geopotential
+t2m, d2m
+Top net thermal radiation
+10m U-component of wind, 10m V-component of wind
+100m U-component of wind, 100m V-component of wind
+
+Pressure level:
+Relative Humidity, Specific Humidity
+U-component of wind, V-component of wind on 925hPa, 850hPa, 700hPa, 500hPa, 300hPa, 200hPa
+
+
+

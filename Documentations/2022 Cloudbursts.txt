@@ -1,0 +1,17 @@
+1. 
+Chamba (HP) — July 09, 2022
+Time: ~22:00–23:00 IST (~17:00 UTC)
+Context: Intense localized burst affecting the Baggi area.
+Coordinates: ~32.55°N, 76.13°E (Snaps to 32.50°N, 76.25°E).
+
+2. 
+Kullu (Choj/Parvati Valley), HP — July 06, 2022
+Time: ~06:00–07:00 IST (~01:00 UTC)
+Context: Devastating burst in the Parvati Valley tributaries.
+Coordinates: ~32.01°N, 77.26°E (Snaps to 32.00°N, 77.25°E).
+
+3. 
+Mandi (Kashan/Thunag), HP — August 20, 2022
+Time: ~03:00–04:00 IST (~21:30 UTC on Aug 19)
+Context: A multi-burst event across Mandi district during an active monsoon surge.
+Coordinates: ~31.58°N, 77.16°E (Snaps to 31.50°N, 77.25°E).
